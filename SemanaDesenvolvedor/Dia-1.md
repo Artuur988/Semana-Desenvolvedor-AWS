@@ -15,8 +15,8 @@ API funcional, 2 Lambdas, fila **SQS FIFO** (+ **DLQ**) e **Event Bus** customiz
 
 ## 🗺️ Arquitetura (visão geral do fluxo)
 
-**Cliente → API Gateway → Lambda (pré-validação) → SQS FIFO → Lambda (validação) → EventBridge (Custom Event Bus)**  
-O uso de **FIFO** garante **ordem**; **DLQ** aumenta a resiliência; **EventBridge** desacopla produtores/consumidores.
+![Arquitetura AWS Dia 1](./assets/ArquiteturaDia1.png)
+
 
 ---
 
