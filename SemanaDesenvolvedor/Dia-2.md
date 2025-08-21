@@ -1,6 +1,6 @@
 # 📂 Arquitetura Orientada a Eventos - Ingestão de Arquivos (AWS)
 
-Projeto desenvolvido na **Semana do Desenvolvedor AWS (Escola da Nuvem)** – **Aula 2: Ingestão de Arquivos via S3, Rastreamento e Integração com o Fluxo Principal de Pedidos**.  
+Projeto desenvolvido na **Semana do Desenvolvedor AWS (Escola da Nuvem)** – **Dia 2: Ingestão de Arquivos via S3, Rastreamento e Integração com o Fluxo Principal de Pedidos**.  
 
 ---
 
@@ -118,5 +118,5 @@ O fluxo implementado:
 
 ---
 
-## 🔜 Próximos Passos (Aula 3)
+## 🔜 Próximos Passos (Dia 3)
 Processar eventos do **EventBridge** (vindos da API e do S3) e persistir pedidos no sistema de forma centralizada.  
