@@ -1,6 +1,6 @@
 # ⚙️ Arquitetura Orientada a Eventos - Processamento Central e Persistência (AWS)
 
-Projeto desenvolvido na **Semana do Desenvolvedor AWS (Escola da Nuvem)** – **Aula 3: Processamento Central de Pedidos e Persistência**.  
+Projeto desenvolvido na **Semana do Desenvolvedor AWS (Escola da Nuvem)** – **Dia 3: Processamento Central de Pedidos e Persistência**.  
 
 ---
 
@@ -121,7 +121,7 @@ Pedido (`s3P003-seu-nome`) validado → evento publicado no EventBridge → rote
 
 ---
 
-## 🔜 Próximos Passos (Aula 4)
+## 🔜 Próximos Passos (Dia 4)
 
 Expandir funcionalidades para:
 
