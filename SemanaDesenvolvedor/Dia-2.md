@@ -18,7 +18,7 @@ O fluxo implementado:
 
 ## 🗺️ Arquitetura (visão geral do fluxo)
 
-![Arquitetura AWS Dia 2](SemanaDesenvolvedor/assets/ArquiteturaDia2.png)
+![Arquitetura AWS Dia 2](./assets/ArquiteturaDia2.png)
 
 
 ---
