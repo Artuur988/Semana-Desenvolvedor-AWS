@@ -108,7 +108,7 @@ curl -X POST https://<invoke-url>/dev/pedidos \
 
 ---
 
-## 🔜 Próximos passos (Aula 2)
+## 🔜 Próximos passos (Dia 2)
 
 - Adicionar **ingestão de arquivos via Amazon S3**.  
 - Criar uma **regra do EventBridge** que encaminhe eventos para novos alvos  
