@@ -16,9 +16,10 @@ Consumir os eventos de pedidos validados (API + S3) e realizar o **processamento
 ## 🗺️ Arquitetura (visão geral do fluxo)
 
 ![Arquitetura AWS Dia 2](./assets/ArquiteturaDia3.png)
-## 🛠️ Recursos Criados
 
 ---
+
+## 🛠️ Recursos Criados
 
 - **IAM Role**: `lambda-processa-pedidos-role-seu-nome`  
 - **Amazon SQS (Standard + DLQ)**:  
